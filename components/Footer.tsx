@@ -77,7 +77,7 @@ export default function Footer() {
                   href="tel:01865XXXXXXX"
                   className="text-xs text-white/50 hover:text-white/80 transition-colors"
                 >
-                  01865 XXXX XXX
+                  +44 7714 397864
                 </a>
               </div>
             </div>

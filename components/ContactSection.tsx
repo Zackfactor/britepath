@@ -103,7 +103,7 @@ export default function ContactSection() {
                       href="tel:01865XXXXXXX"
                       className="text-sm text-white hover:text-[#2FA4A9] transition-colors"
                     >
-                      01865 XXXX XXX
+                      +44 7714 397864
                     </a>
                   </div>
                 </div>

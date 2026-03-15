@@ -82,10 +82,10 @@ export default function ContactSection() {
                   <div>
                     <p className="text-xs font-medium text-white/60 mb-0.5">Email</p>
                     <a
-                      href="mailto:info@britepathhealthcare.co.uk"
+                      href="mailto:info@britepathcare.co.uk"
                       className="text-sm text-white hover:text-[#2FA4A9] transition-colors"
                     >
-                      info@britepathhealthcare.co.uk
+                      info@britepathcare.co.uk
                     </a>
                   </div>
                 </div>

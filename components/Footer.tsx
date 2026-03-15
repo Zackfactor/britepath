@@ -65,10 +65,10 @@ export default function Footer() {
               <div className="flex items-center gap-2.5 group">
                 <Mail className="w-4 h-4 flex-shrink-0" style={{ color: "#2FA4A9" }} />
                 <a
-                  href="mailto:info@britepathhealthcare.co.uk"
+                  href="mailto:info@britepathcare.co.uk"
                   className="text-xs text-white/50 hover:text-white/80 transition-colors"
                 >
-                  info@britepathhealthcare.co.uk
+                  info@britepathcare.co.uk
                 </a>
               </div>
               <div className="flex items-center gap-2.5 group">

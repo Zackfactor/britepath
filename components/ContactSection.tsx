@@ -100,7 +100,7 @@ export default function ContactSection() {
                   <div>
                     <p className="text-xs font-medium text-white/60 mb-0.5">Phone</p>
                     <a
-                      href="tel:01865XXXXXXX"
+                      href="tel:+447714397864"
                       className="text-sm text-white hover:text-[#2FA4A9] transition-colors"
                     >
                       +44 7714 397864

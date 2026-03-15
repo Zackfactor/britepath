@@ -74,7 +74,7 @@ export default function Footer() {
               <div className="flex items-center gap-2.5 group">
                 <Phone className="w-4 h-4 flex-shrink-0" style={{ color: "#2FA4A9" }} />
                 <a
-                  href="tel:01865XXXXXXX"
+                  href="tel:+447714397864"
                   className="text-xs text-white/50 hover:text-white/80 transition-colors"
                 >
                   +44 7714 397864

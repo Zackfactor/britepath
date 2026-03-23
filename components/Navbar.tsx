@@ -77,9 +77,9 @@ export default function Navbar() {
               <Image
                 src="/logo.svg"
                 alt="BritePath Health Care Staffing"
-                width={192}
-                height={62}
-                className="h-14 w-auto object-contain transition-transform group-hover:scale-105"
+                width={220}
+                height={71}
+                className="h-16 w-auto object-contain transition-transform group-hover:scale-105"
                 priority
               />
             </div>
